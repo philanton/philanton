@@ -9,5 +9,3 @@ Selected work:
 Tools I work with include Go, PostgreSQL, Kubernetes, Terraform, Helm and GCP. My monitoring experience includes Prometheus, Grafana and Alertmanager, followed by GCP Monitoring.
 
 I use Codex for implementation, testing and review, while owning the design and implementation plan and reviewing changes myself.
-
-LinkedIn
